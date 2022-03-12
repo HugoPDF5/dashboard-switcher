@@ -15,6 +15,9 @@ Aplicação realizada para praticar conhecimentos de HTML, CSS e JS.
 ![](/assets/screen-3-tablet.png)
 
 
+
+### Você também pode ver a aplicação [aqui](https://switcher-theme-hugo.netlify.app/)
+
 ## Objetivos futuros
 
 - [x] Adicionar responsividade para tablets e dispositivos móveis
