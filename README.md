@@ -5,9 +5,15 @@ Aplicação realizada para praticar conhecimentos de HTML, CSS e JS.
 
 ## Visualização:
 
-![Dark theme](/assets/screen-1.png)
-![Light theme](/assets/screen-2.png)
-![Tablet version](/assets/screen-3-tablet.png)
+### Dark theme
+![](/assets/screen-1.png)
+
+### Light theme
+![](/assets/screen-2.png)
+
+### Tablet
+![](/assets/screen-3-tablet.png)
+
 
 ## Objetivos futuros
 
